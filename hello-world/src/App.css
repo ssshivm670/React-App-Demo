@@ -1,0 +1,16 @@
+.button{
+  width : 40px;
+  height : 40px;
+  display : inline-block;
+  box-sizing: border-box;
+  padding :10px 15px;
+  border : 1px solid black;
+  margin : 1px;
+  border-radius : 5px;
+}
+div#CE{
+  padding-left:10px;
+}
+div#C{
+  padding-left:14px;
+}
